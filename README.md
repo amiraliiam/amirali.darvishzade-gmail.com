@@ -1,2 +1,2 @@
-# amirali.darvishzade-gmail.com
-Machine Learning Tutorials
+# Machine Learning Tutorials
+
